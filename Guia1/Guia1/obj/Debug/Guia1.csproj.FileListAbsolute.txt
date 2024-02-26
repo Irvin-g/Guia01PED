@@ -1,0 +1,17 @@
+C:\Users\irvin\source\repos\Guia1\Guia1\bin\Debug\Guia1.exe.config
+C:\Users\irvin\source\repos\Guia1\Guia1\bin\Debug\Guia1.exe
+C:\Users\irvin\source\repos\Guia1\Guia1\bin\Debug\Guia1.pdb
+C:\Users\irvin\source\repos\Guia1\Guia1\obj\Debug\Guia1.csprojAssemblyReference.cache
+C:\Users\irvin\source\repos\Guia1\Guia1\obj\Debug\Guia1.Properties.Resources.resources
+C:\Users\irvin\source\repos\Guia1\Guia1\obj\Debug\Guia1.csproj.GenerateResource.cache
+C:\Users\irvin\source\repos\Guia1\Guia1\obj\Debug\Guia1.csproj.CoreCompileInputs.cache
+C:\Users\irvin\source\repos\Guia1\Guia1\obj\Debug\Guia1.exe
+C:\Users\irvin\source\repos\Guia1\Guia1\obj\Debug\Guia1.pdb
+C:\Users\irvin\source\repos\Guia1\Guia1\obj\Debug\Guia1.Form1.resources
+C:\Users\irvin\source\repos\Guia1\Guia1\obj\Debug\Guia1.Form2.resources
+C:\Users\irvin\source\repos\Guia1\Guia1\obj\Debug\Guia1.Form3.resources
+C:\Users\irvin\source\repos\Guia1\Guia1\bin\Debug\fondo.png
+C:\Users\irvin\source\repos\Guia1\Guia1\obj\Debug\Guia1.Form4.resources
+C:\Users\irvin\source\repos\Guia1\Guia1\obj\Debug\Guia1.Form5.resources
+C:\Users\irvin\source\repos\Guia1\Guia1\obj\Debug\Guia1.Form6.resources
+C:\Users\irvin\source\repos\Guia1\Guia1\obj\Debug\Guia1.Form7.resources
